@@ -20,4 +20,8 @@ This project is a **Test Automation Framework** built using **Python**, **Seleni
 
 ## 🔧 Installation & Setup
 
-**Clone the Repository** - git clone `https://github.com/satya12388/TestFramework` - Create an Virtual environment - run pytest -v --html=Reports/report.html TestCases
+**Clone the Repository**
+
+- ✅ git clone `https://github.com/satya12388/TestFramework`
+- ✅ Create an Virtual environment
+- ✅ run pytest -v --html=Reports/report.html TestCases
