@@ -1,0 +1,51 @@
+04/04/2025 11:11:42 PM: test_checkout.py: INFO: --- Testing Checkout of Items ---
+04/04/2025 11:11:42 PM: test_checkout.py: INFO: Username Entered
+04/04/2025 11:11:42 PM: test_checkout.py: INFO: Password Entered
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Logged int website
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Added Backpack
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Added Tshirt
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Clicked on cart
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Clicked on checkout
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Entered First Name
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Entered Last name
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Entered Postal code
+04/04/2025 11:11:43 PM: test_checkout.py: INFO: Total: $49.66
+04/04/2025 11:11:47 PM: test_login.py: INFO: --- Testing loging Functionality ---
+04/04/2025 11:11:47 PM: test_login.py: INFO: Username Entered
+04/04/2025 11:11:47 PM: test_login.py: INFO: Password Entered
+04/04/2025 11:11:47 PM: test_login.py: INFO: Logged int website
+04/04/2025 11:11:47 PM: test_login.py: INFO: Title Verified
+05/04/2025 01:50:59 PM: test_checkout.py: INFO: --- Testing Checkout of Items ---
+05/04/2025 01:50:59 PM: test_checkout.py: INFO: Username Entered
+05/04/2025 01:50:59 PM: test_checkout.py: INFO: Password Entered
+05/04/2025 01:50:59 PM: test_checkout.py: INFO: Logged int website
+05/04/2025 01:50:59 PM: test_checkout.py: INFO: Added Backpack
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Added Tshirt
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Clicked on cart
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Clicked on checkout
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Entered First Name
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Entered Last name
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Entered Postal code
+05/04/2025 01:51:00 PM: test_checkout.py: INFO: Total: $49.66
+05/04/2025 01:51:04 PM: test_login.py: INFO: --- Testing loging Functionality ---
+05/04/2025 01:51:04 PM: test_login.py: INFO: Username Entered
+05/04/2025 01:51:05 PM: test_login.py: INFO: Password Entered
+05/04/2025 01:51:05 PM: test_login.py: INFO: Logged int website
+05/04/2025 01:51:05 PM: test_login.py: INFO: Title Verified
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: --- Testing Checkout of Items ---
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Username Entered
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Password Entered
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Logged int website
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Added Backpack
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Added Tshirt
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Clicked on cart
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Clicked on checkout
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Entered First Name
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Entered Last name
+05/04/2025 01:52:14 PM: test_checkout.py: INFO: Entered Postal code
+05/04/2025 01:52:15 PM: test_checkout.py: INFO: Total: $49.66
+05/04/2025 01:52:18 PM: test_login.py: INFO: --- Testing loging Functionality ---
+05/04/2025 01:52:18 PM: test_login.py: INFO: Username Entered
+05/04/2025 01:52:19 PM: test_login.py: INFO: Password Entered
+05/04/2025 01:52:19 PM: test_login.py: INFO: Logged int website
+05/04/2025 01:52:19 PM: test_login.py: INFO: Title Verified
